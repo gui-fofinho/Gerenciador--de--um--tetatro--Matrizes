@@ -3,7 +3,6 @@
 # 0 = lugar livre
 # 1 = lugar ocupado
 
-#Exercício de matriz e funções: teatro do Cetec (03 e 06/11/2025)
 def exibe(mat):
 
     for fileira in range (10):
